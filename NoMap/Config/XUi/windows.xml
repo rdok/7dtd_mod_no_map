@@ -1,0 +1,22 @@
+<NoMap>
+    <!-- Fill in map with white|black -->
+    <set xpath="//window[@name='mapArea']//sprite[@name='backgroundMain']/@color">[white]</set>
+    <set xpath="//window[@name='mapArea']//sprite[@name='backgroundMain']/@fillcenter">true</set>
+
+    <!-- Disable  press, scroll, hover -->
+    <set xpath="//window[@name='mapArea']//panel[@name='mapView']/@style">disabled</set>
+    <set xpath="//window[@name='mapArea']//panel[@name='mapView']/@on_drag">false</set>
+
+    <!-- Hide map stats such as temperature -->
+    <setattribute xpath="//window[@name='mapArea']//panel//rect//*" name="visible">false</setattribute>
+    <setattribute xpath="//window[@name='mapArea']//panel//rect//*" name="force_hide">true</setattribute>
+
+    <!-- Hide Map POIs -->
+    <setattribute xpath="//window[@name='mapArea']//panel[@name='clippingPanel']" name="visible">false</setattribute>
+    <setattribute xpath="//window[@name='mapArea']//panel[@name='clippingPanel']" name="force_hide">true</setattribute>
+
+    <!-- Hide map textures -->
+    <setattribute xpath="//window[@name='mapArea']//texture[@name='mapViewTexture']" name="visible">false</setattribute>
+    <setattribute xpath="//window[@name='mapArea']//texture[@name='mapViewTexture']" name="force_hide">true
+    </setattribute>
+</NoMap>
