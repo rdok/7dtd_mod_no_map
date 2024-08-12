@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoMap", "NoMap\NoMap.csproj", "{90A1B09C-9B78-4C0B-88B1-4928F311D376}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		LightVersion|Any CPU = LightVersion|Any CPU
+		DarkVersion|Any CPU = DarkVersion|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A1B09C-9B78-4C0B-88B1-4928F311D376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A1B09C-9B78-4C0B-88B1-4928F311D376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A1B09C-9B78-4C0B-88B1-4928F311D376}.LightVersion|Any CPU.ActiveCfg = LightVersion|Any CPU
+		{90A1B09C-9B78-4C0B-88B1-4928F311D376}.LightVersion|Any CPU.Build.0 = LightVersion|Any CPU
+		{90A1B09C-9B78-4C0B-88B1-4928F311D376}.DarkVersion|Any CPU.ActiveCfg = DarkVersion|Any CPU
+		{90A1B09C-9B78-4C0B-88B1-4928F311D376}.DarkVersion|Any CPU.Build.0 = DarkVersion|Any CPU
+	EndGlobalSection
+EndGlobal
