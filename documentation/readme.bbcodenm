@@ -1,15 +1,16 @@
 [size=6]7 Days to Die Mod - No Map[/size]
 
-[url=https://next.nexusmods.com/7daystodie/collections/epfqzi][img]https://img.shields.io/badge/Nexus%20Mods%20Collection-Immersive%20HUD%20-orange?style=flat-square&logo=spinrilla[/img][/url] [url=https://www.nexusmods.com/7daystodie/mods/5689][img]https://img.shields.io/badge/Nexus%20Mod-No%20Map%20-orange?style=flat-square&logo=spinrilla[/img][/url] [url=https://github.com/rdok/7daystodie_mod_no_map][img]https://img.shields.io/badge/GitHub-Repository-green?style=flat-square&logo=github[/img][/url]
+[url=https://next.nexusmods.com/7dtd/collections/epfqzi][img]https://img.shields.io/badge/Nexus%20Mods%20Collection-Immersive%20HUD%20-orange?style=flat-square&logo=spinrilla[/img][/url] [url=https://www.nexusmods.com/7dtd/mods/5689][img]https://img.shields.io/badge/Nexus%20Mod-No%20Map%20-orange?style=flat-square&logo=spinrilla[/img][/url] [url=https://github.com/rdok/7dtd_no_map][img]https://img.shields.io/badge/GitHub-Repository-green?style=flat-square&logo=github[/img][/url]
 
 [quote]
-Conceals the map.
+Conceals the in-game map with either a light or dark overlay, tailored for different HUD themes.
 [/quote]
-[url=https://www.nexusmods.com/7daystodie/mods/5689][img]https://raw.githubusercontent.com/rdok/7daystodie_mod_no_map/main/documentation/showcase_compatibility_with_steel_hud.gif[/img][/url]
+[url=https://www.nexusmods.com/7dtd/mods/5689][img]https://raw.githubusercontent.com/rdok/7dtd_no_map/main/documentation/showcase_light_version.jpg[/img][/url]
+[url=https://www.nexusmods.com/7dtd/mods/5689][img]https://raw.githubusercontent.com/rdok/7dtd_no_map/main/documentation/showcase_dark_version.jpg[/img][/url]
 
 [size=5]Features[/size]
 [list]
-[*] 7daystodie Version: 1.0 (b333)
+[*] 7dtd Version: 1.0 (b333)
 [*] Install with [url=https://www.nexusmods.com/about/vortex/]Vortex[/url].
 [*] Main Version (Light): Conceals the map with a white overlay, recommended for use with the default HUD.
 [*] Dark Version (Optional): Conceals the map with a black overlay, perfect for dark-themed HUDs like Steel UI.
@@ -24,6 +25,6 @@ Conceals the map.
 [/list]
 [size=5]Future Plan[/size]
 [list]
-[*] Revive and create a new mod based on the abandoned project [url=https://www.nexusmods.com/7daystodie/mods/569]Tablet[/url], which introduces a craftable tablet.
+[*] Revive and create a new mod based on the abandoned project [url=https://www.nexusmods.com/7dtd/mods/569]Tablet[/url], which introduces a craftable tablet.
 [*] Ensure the new mod re-enables the map feature, making it accessible only through the tablet, allowing players to view the map on the tablet screen.
 [/list]
